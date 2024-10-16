@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Challenge has been solved on branch master.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
