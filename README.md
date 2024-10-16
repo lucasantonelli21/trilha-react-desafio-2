@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Challenge has been solved on branch master.
+Challenge has been solved on branch main.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
